@@ -29,3 +29,7 @@ CIFAR-10
 ---
 
 This project was developed as part of my M.Tech research work.
+
+## 👩‍💻 Author
+Hadassah Mol  
+M.Tech – AI / ML
